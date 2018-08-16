@@ -1,6 +1,6 @@
 {
   "name": "default-socket.io-server",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Default Socket.io server",
   "main": "index.js",
   "directories": {
